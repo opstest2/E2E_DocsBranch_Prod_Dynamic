@@ -1,9 +1,9 @@
 {
   "redirections":[
   {
-    "source_path":"E2E_DocsBranch_Prod_Dynamic/index.md",
-    "redirect_url":"/E2E_DocsBranch_Prod_Dynamic/redirection",
-    "redirect_document_id":true
+    "source_path":"E2E_DocsBranch_Prod_Dynamic/index2.md",
+    "redirect_url":"E2E_DocsBranch_Prod_Dynamic/redirection",
+    "redirect_document_id":false
   }
  ]
 }
