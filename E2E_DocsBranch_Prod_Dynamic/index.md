@@ -1,3 +1,3 @@
-### YamlMime:ManagedReference
+# error test
 
-([A-Z])\w+
+[!code-<language>[<name>](<codepath><queryoption><queryoptionvalue> "<title>")]
