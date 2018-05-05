@@ -1,5 +1,1 @@
-### YamlMime:YamlDocument
-documentType: LandingData
-metadata:
-    document_id_source_file: index.yml
-    ### 2018/5/5 12:28:36
+### 2018/5/5 16:30:39
