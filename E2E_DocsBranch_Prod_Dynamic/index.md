@@ -1,1 +1,4 @@
-# this is index.md
+### YamlMime:YamlDocument
+
+documentType: LandingData
+document_id_source_file: index.yml
