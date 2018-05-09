@@ -1,4 +1,0 @@
-### YamlMime:YamlDocument
-
-documentType: LandingData
-
