@@ -1,9 +1,9 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "E2E_Provision_Prod_2018_10_31_14_38_08",
-      "build_source_folder": "E2E_Provision_Prod_2018_10_31_14_38_08",
-      "build_output_subfolder": "E2E_Provision_Prod_2018_10_31_14_38_08",
+      "docset_name": "E2E_DocsBranch_Prod_Dynamic",
+      "build_source_folder": "E2E_DocsBranch_Prod_Dynamic",
+      "build_output_subfolder": "E2E_DocsBranch_Prod_Dynamic",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
