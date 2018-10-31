@@ -3,11 +3,14 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "**/*.md",
+          "**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
           "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**",
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
@@ -23,15 +26,22 @@
         ],
         "exclude": [
           "**/obj/**",
-          "**/includes/**"
+          "**/includes/**",
+          "_themes/**",
+          "_themes.pdf/**"
         ]
       }
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+      "breadcrumb_path": "/E2E_DocsBranch_Prod_Dynamic/breadcrumb/toc.json",
+      "extendBreadcrumb": true,
+      "feedback_system": "None"
+    },
     "fileMetadata": {},
     "template": [],
-    "dest": "E2E_DocsBranch_Prod_Dynamic"
+    "dest": "E2E_DocsBranch_Prod_Dynamic",
+    "markdownEngineName": "markdig"
   }
 }
