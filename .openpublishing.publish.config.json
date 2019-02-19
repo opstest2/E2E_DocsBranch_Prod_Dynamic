@@ -29,6 +29,11 @@
       "url": "https://github.com/Microsoft/templates.docs.msft",
       "branch": "master",
       "branch_mapping": {}
+    },
+    {
+      "path_to_root": "E2E_RepoConfig_Dynamic_Prod/test",
+      "url": "https://github.com/OPS-E2E-Prod/E2E_RepoConfig_Dynamic_Prod",
+      "branch": "crr-pullRequest"
     }
   ],
   "branch_target_mapping": {},
