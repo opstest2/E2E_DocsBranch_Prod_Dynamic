@@ -18,6 +18,7 @@
       "template_folder": "_themes"
     }
   ],
+  "use_docfxv3": true,
   "notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
