@@ -2,7 +2,7 @@
   "redirections":[
   {
     "source_path":"E2E_DocsBranch_Prod_Dynamic/AbsoluteUrl.md",
-    "redirect_url":"https://review.docs.microsoft.com/en-us/E2E_DocsBranch_Prod_Dynamic/index?branch=redirectAbsoluteUrl-v3"
+    "redirect_url":"https://review.docs.microsoft.com/en-us/E2E_DocsBranch_Prod_Dynamic/index?branch=redirectAbsoluteUrl"
   }
  ]
 }
