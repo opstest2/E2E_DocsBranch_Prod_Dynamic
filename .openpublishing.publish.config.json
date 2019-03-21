@@ -32,7 +32,7 @@
     },
     {
       "path_to_root": "E2E_DocsBranch_Prod_Dynamic/test",
-      "url": "https://github.com/OPS-E2E-Prod/E2E_RepoConfig_Dynamic_Prod",
+      "url": "https://github.com/OPS-E2E-Prod/E2E_RepoConfig_Dynamic_Prod-V3",
       "branch": "crr-pullRequest"
     }
   ],
