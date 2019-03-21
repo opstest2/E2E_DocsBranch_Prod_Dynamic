@@ -1,7 +1,7 @@
 {
   "redirections":[
   {
-    "source_path":"E2E_DocsBranch_Dynamic/RelativeUrl.md",
+    "source_path":"E2E_DocsBranch_Prod_Dynamic/RelativeUrl.md",
     "redirect_url":"RelativePage"
   }
  ]
