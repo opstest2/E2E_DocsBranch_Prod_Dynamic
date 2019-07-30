@@ -1,7 +1,7 @@
 {
     "redirections": [
     {
-    "source_path": "E2E_DocsBranch_Prod_Dynamic/abc.md",
+    "source_path": "e2e_docsbranch_prod_dynamic/abc.md",
     "redirect_url": "https://docs.microsoft.com",
     "redirect_document_id": true
     }
