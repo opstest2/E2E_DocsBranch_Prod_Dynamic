@@ -1,5 +1,4 @@
 ---
-author: fenxu123
-ms.author: fenxu123
+original_content_git_url: http://www.bing.com 
 ---
 # this is a test page
