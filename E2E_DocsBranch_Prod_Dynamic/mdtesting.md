@@ -1,5 +1,5 @@
 ---
 locale: zh-cn
-ms.locale: zh-cn
+ms.loc: zh-cn
 ---
 # this is a test page
