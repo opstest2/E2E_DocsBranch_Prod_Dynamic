@@ -1,5 +1,5 @@
 ---
-locale: zh-cn
-ms.loc: zh-cn
+toc_rel: testtoc.json
+site_name: testsitename
 ---
 # this is a test page
