@@ -1,6 +1,7 @@
 ---
-author: staceyhong
-author: tester
+author: 
+  - staceyhong
+  - tester
 title: suggestion test
 ---
 # multipleAuthor suggestion
