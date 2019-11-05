@@ -39,7 +39,11 @@
      "buildpdf-e2e": [
       "Publish",
       "Pdf"
-    ]
+    ],
+    "container-buildpdf-e2e":[
+       "Publish",
+      "Pdf"
+    ]   
   },
   "need_generate_pdf_url_template": false,
   "targets": {},
