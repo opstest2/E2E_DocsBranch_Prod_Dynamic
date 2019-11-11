@@ -31,7 +31,7 @@
     "globalMetadata": {
       "feedback_product_url": {
           "articles/*.md": "https://feedback.azure.com/forums/34192--general-feedback",
-          "articles/advisor/**/advisor-get-*.md": "https://feedback.azure.com/forums/34192--general-feedback-fullbuild-test
+          "articles/advisor/**/advisor-get-*.md": "https://feedback.azure.com/forums/34192--general-feedback-fullbuild-test"
       }
     },
     "fileMetadata": {},
