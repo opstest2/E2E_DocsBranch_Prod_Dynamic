@@ -28,7 +28,11 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+      "feedback_product_url": {
+          "articles/*.md": "https://feedback.azure.com/forums/34192--general-feedback"
+      }
+    },
     "fileMetadata": {},
     "template": [],
     "dest": "E2E_DocsBranch_Prod_Dynamic"
