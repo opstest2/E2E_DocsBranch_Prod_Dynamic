@@ -29,9 +29,7 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "feedback_system": "GitHub",
-      "feedback_github_repo": "MicrosoftDocs/azure-docs",
-      "feedback_product_url": "https://feedback.azure.com/forums/34192--general-feedback"
+      "feedback_system": "GitHub"
     },    
     "fileMetadata": {
        "feedback_product_url": {
