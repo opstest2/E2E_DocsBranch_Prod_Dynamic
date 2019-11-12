@@ -28,7 +28,11 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},    
+    "globalMetadata": {
+      "feedback_system": "GitHub",
+      "feedback_github_repo": "MicrosoftDocs/azure-docs",
+      "feedback_product_url": "https://feedback.azure.com/forums/34192--general-feedback"
+    },    
     "fileMetadata": {
        "feedback_product_url": {
           "articles/*.md": "https://feedback.azure.com/forums/34192--general-feedback",
