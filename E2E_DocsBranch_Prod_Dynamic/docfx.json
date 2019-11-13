@@ -42,6 +42,11 @@
           "articles/advisor/**/*.md": "https://feedback.azure.com/forums/34192--general-feedback","articles/advisor/**/advisor-get-*.md": "https://feedback.azure.com/forums/34192--general-feedback-fullbuild-test2",
           "articles/vpn-gateway/**/*.md": "https://feedback.azure.com/forums/217313-networking?category_id=77470",
           "articles/firewall/**/*.md": "https://feedback.azure.com/forums/217313-networking?category_id=345022"
+      },
+      "ms.technology": {
+        "ai/**/**.md": "vs-ai-tools",
+        "azure/**/**.md": "vs-azure",
+        "code-quality/**/**.md": "vs-ide-code-analysis"
       }
     },
     "template": [],
