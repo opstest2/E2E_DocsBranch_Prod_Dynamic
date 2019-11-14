@@ -43,7 +43,7 @@
           "articles/vpn-gateway/**/*.md": "https://feedback.azure.com/forums/217313-networking?category_id=77470",
           "articles/firewall/**/*.md": "https://feedback.azure.com/forums/217313-networking?category_id=345022"
       }
-      "ms.technology":{
+      "ms.technology": {
         "ai/**/**.md": "vs-ai-tools",
         "azure/**/**.md": "vs-azure-test2",
         "code-quality/**/**.md": "vs-ide-code-analysis"
