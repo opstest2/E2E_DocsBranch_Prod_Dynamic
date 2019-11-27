@@ -2,6 +2,10 @@
 title: "How to: Create MDI Child Forms"
 author: e2etester
 ms.date: "03/30/2017"
+ms.custom: mvc
+author: mairaw
+ms.author: mairaw
+ms.custom: vs-dotnet
 dev_langs:
   - "csharp"
   - "vb"
