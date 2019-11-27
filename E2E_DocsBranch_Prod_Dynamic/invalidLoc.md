@@ -1,9 +1,6 @@
 ---
 author: staceyhong
 title: suggestion test
-dev_langs: 
-  - "csharp"
-  - "vb"
 ---
 
 # test for suggestion v2
