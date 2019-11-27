@@ -2,11 +2,11 @@
   "redirections": [
     {
       "source_path": "E2E_DocsBranch_Prod_Dynamic/index.md",
-      "redirect_url": "/dotnet/standard/index"
+      "redirect_url": "https://docs.microsoft.com/previous-versions/visualstudio/visual-studio-2013/cc488276"
     },
     {
       "source_path": "E2E_DocsBranch_Prod_Dynamic/duplicateKey.md",
-      "redirect_url": "/dotnet/standard/components"
+      "redirect_url": "http://docs.microsoft.com/previous-versions/visualstudio/visual-studio-2013/cc488276(v=vs.120)"
     }
     ]
 }
