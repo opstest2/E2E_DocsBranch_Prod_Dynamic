@@ -1,5 +1,6 @@
 ---
 title: "How to: Create MDI Child Forms"
+author: e2etester
 ms.date: "03/30/2017"
 dev_langs:
   - "csharp"
