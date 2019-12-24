@@ -2,17 +2,17 @@
     "redirections": [
         {
             "source_path": "E2E_DocsBranch_Prod_Dynamic/A.md",
-            "redirect_url": "E2E_DocsBranch_Prod_Dynamic/D.md",
+            "redirect_url": "E2E_DocsBranch_Prod_Dynamic/D",
             "redirect_document_id": true
         },
         {
             "source_path": "E2E_DocsBranch_Prod_Dynamic/B.md",
-            "redirect_url": "E2E_DocsBranch_Prod_Dynamic/D.md",
+            "redirect_url": "E2E_DocsBranch_Prod_Dynamic/D",
             "redirect_document_id": true
         },
         {
             "source_path": "E2E_DocsBranch_Prod_Dynamic/C.md",
-            "redirect_url": "E2E_DocsBranch_Prod_Dynamic/D.md",
+            "redirect_url": "E2E_DocsBranch_Prod_Dynamic/D",
             "redirect_document_id": true
         },
     ]
