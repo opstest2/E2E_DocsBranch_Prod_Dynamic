@@ -2,11 +2,6 @@
     "redirections": [
         {
             "source_path": "E2E_DocsBranch_Prod_Dynamic/A.md",
-            "redirect_url": "B",
-            "redirect_document_id": true
-        },
-        {
-            "source_path": "E2E_DocsBranch_Prod_Dynamic/B.md",
             "redirect_url": "A",
             "redirect_document_id": true
         }
