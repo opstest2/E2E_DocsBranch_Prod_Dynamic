@@ -1,8 +1,0 @@
-{
-  "redirections":[
-  {
-    "source_path":"E2E_DocsBranch_Prod_Dynamic/partialUrl.md",
-    "redirect_url":"Testing/A"
-  }
- ]
-}
