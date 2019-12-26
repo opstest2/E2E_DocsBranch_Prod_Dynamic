@@ -1,1 +1,1 @@
-# [Index](A.md)
+# [Index](index.md)
