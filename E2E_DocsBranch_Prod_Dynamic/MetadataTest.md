@@ -1,5 +1,5 @@
 ---
-ms.prod:analytics-platform-system
+ms.prod: analytics-platform-system
 ---
 
 # I am test file for metadata
