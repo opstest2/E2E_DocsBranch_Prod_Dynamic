@@ -41,8 +41,5 @@
       "Pdf"
     ]   
   },
-  "need_generate_pdf_url_template": true,
-  "targets": {},
-  "need_generate_pdf": true,
-  "need_generate_intellisense": false
+  "need_generate_pdf_url_template": true
 }
