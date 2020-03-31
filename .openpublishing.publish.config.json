@@ -31,11 +31,7 @@
       "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": {
-    "buildpdf-e2e-v3": [
-        "Publish",
-        "Pdf"
-      ],
+  "branch_target_mapping": {    
      "buildpdf-e2e": [
       "Publish",
       "Pdf"
