@@ -1,5 +1,4 @@
 ---
-description: This is description testing
-manager: Wang.Hui
+locale: zh-cn
 ---
-# this is a test page 4/18/2020 8:00:09 AM
+# this is a test page
