@@ -1,4 +1,5 @@
 ---
-document_id: fd5a5fc6-8a22-4bbe-9926-3c9b09fc8341
+toc_rel: testtoc.json
+site_name: testsitename
 ---
 # this is a test page
