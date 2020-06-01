@@ -1,5 +1,5 @@
 ---
-open_to_contributors: true
-ROBOTS: NOINDEX
+keywords: metadata, user manual
+ms.translationtype: Human Translation
 ---
-# this is a test page 6/1/2020 9:18:48 PM
+# this is a test page 6/1/2020 9:19:29 PM
