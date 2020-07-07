@@ -1,7 +1,7 @@
 ---
 author: staceyhong
-title: h1 not first test
+title: multiple h1
 ---
 ## missing h1 will cause warning
-# h1 not first
+# h1 not first test file
 
