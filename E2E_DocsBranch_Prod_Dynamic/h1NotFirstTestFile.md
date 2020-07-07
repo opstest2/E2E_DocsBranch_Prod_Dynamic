@@ -1,6 +1,6 @@
 ---
 author: staceyhong
-title: suggestion test in h1 not first test file
+title: multiple h1
 ---
 ## missing h1 will cause suggestion 2
 # h1 not first
