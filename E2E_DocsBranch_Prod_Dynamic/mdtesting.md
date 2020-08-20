@@ -1,7 +1,5 @@
 ---
-ms.auth: true
-ms.lang: en-us
-ms.loc: en-us
-ms.puidhash: test
+open_to_contributors: true
+ROBOTS: NOINDEX
 ---
-# this is a test page
+# this is a test page 8/20/2020 5:52:00 AM
