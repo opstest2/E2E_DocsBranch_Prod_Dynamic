@@ -1,3 +1,4 @@
 # Secure Links
-[invalid link](www.microsoft.com)
+
+[invalid link](http://www.microsoft.com)
 
