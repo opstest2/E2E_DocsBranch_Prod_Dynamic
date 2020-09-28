@@ -10,4 +10,3 @@ ms.author: v-yajlu
 # Test page in prod
 
 image case ![A fallback image](windows.jpg) 
-see "how token works" in [!INCLUDE[token](token.md)]
