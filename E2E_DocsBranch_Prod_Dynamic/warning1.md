@@ -1,9 +1,9 @@
 # Secure Links
 [invalid link](http://docs.microsoft.com)
 [invalid link](http://docs.microsoft.com/zh-cn/)
-[invalid link](http://docs.microsoft.com/en-us/)
-[invalid link](http://docs.microsoft.com/en-us/)
-[invalid link](http://docs.microsoft.com/en-us/)
+[invalid link](docs.microsoft.com/en-us/)
+[invalid link](docs.microsoft.com/zh-cn/)
+[invalid link](docs.microsoft.com)
 [invalid link](http://docs.microsoft.com/en-us/)
 [invalid link](http://docs.microsoft.com/en-us/)
 [invalid link](http://docs.microsoft.com/en-us/)
