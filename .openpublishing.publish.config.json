@@ -1,5 +1,4 @@
 {
-  "docs_build_engine": { "name": "docfx_v2"},
   "docsets_to_publish": [
     {
       "docset_name": "E2E_DocsBranch_Prod_Dynamic",
@@ -32,15 +31,9 @@
       "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": {    
-     "buildpdf-e2e": [
-      "Publish",
-      "Pdf"
-    ],
-    "container-buildpdf-e2e":[
-       "Publish",
-      "Pdf"
-    ]   
-  },
-  "need_generate_pdf_url_template": true
+  "branch_target_mapping": {},
+  "need_generate_pdf_url_template": true,
+  "docs_build_engine": {
+    "name": "docfx_v3"
+  }
 }
